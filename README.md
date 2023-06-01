@@ -6,6 +6,7 @@ Contact: Tessa Masis (tmasis@cs.umass.edu), Brendan O'Connor (brenocon@cs.umass.
 
 
 - `data/`
+  - `documentation.md`: dataset documentation
   - `county.tsv`: tsv file with county-level linguistic feature z-scores
   - `tract.zip`: compressed tsv file with tract-level linguistic feature z-scores and demographic data
 
@@ -21,7 +22,7 @@ Run the getRegionData.py script with the geographic granularity level ('tract' o
 
     python3 getRegionData.py tract
         
-This script requires files with tweets, corresponding geoids, and accompanying scores from feature detectors (where a score above a certain threshold indicates that the text data contains a given linguistic feature). If running the script at the tract-level, then the script also requires files with demographic data (we sourced this data from publicly available repositories, detailed in the Methods section of the paper). 
+This script requires files which are not included in this repo. It requires files with tweets and corresponding geoids and scores from feature detectors (where a score above a certain threshold indicates that the text data contains a given linguistic feature). If running the script at the tract-level, then the script also requires files with demographic data (we sourced this data from publicly available repositories, detailed in the Methods section of the paper). 
 
 ## Analyzing the data
 
