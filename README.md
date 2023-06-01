@@ -7,8 +7,8 @@ Contact: Tessa Masis (tmasis@cs.umass.edu), Brendan O'Connor (brenocon@cs.umass.
 
 - `data/`
   - `documentation.md`: dataset documentation
-  - `county.tsv`: tsv file with county-level linguistic feature z-scores
-  - `tract.zip`: compressed tsv file with tract-level linguistic feature z-scores and demographic data
+  - `county.tsv`: tsv file with county-level linguistic feature relative incidences
+  - `tract.zip`: compressed tsv file with tract-level linguistic feature relative incidences and demographic data
 
 - `code/`
   - `getRegionData.py`: code to generate the tsv files in 'data/'
