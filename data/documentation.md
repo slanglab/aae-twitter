@@ -28,7 +28,7 @@
 - 69865 items
 - Each item represents a U.S. Census tract
 - For each item, there is a tract ID (column denoted as 'region') and continuous variables representing the relative incidences of the same 18 linguistic features as aae-twitter/county.tsv
-- For each item, there are also columns representing demographic data for each tract. More details on the data and where it was sourced from can be found in the Methods section of the paper. The following are mappings of column names to the demographic data:
+- For each item, there are also columns representing demographic data for each tract. More details on the data and where it was sourced from can be found in the Methods section of the paper. Note that some tracts are missing demographic data. The following are mappings of column names to the demographic data:
 	1. latitude: Latitude
 	1. longitude: Longitude
 	1. ruca: Rural-Urban Commuting Area
