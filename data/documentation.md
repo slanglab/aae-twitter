@@ -24,6 +24,7 @@
 	1. wh-question: *Wh*-question
 
 ### aae-twitter/tract.zip
+- Compressed tsv file
 - 69865 items
 - Each item represents a U.S. Census tract
 - For each item, there is a tract ID (column denoted as 'region') and continuous variables representing the relative incidences of the same 18 linguistic features as aae-twitter/county.tsv
