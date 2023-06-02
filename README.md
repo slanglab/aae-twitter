@@ -4,6 +4,9 @@ Code and data to accompany: Masis, Eggleston, Green, Jones, Armstrong, and O'Con
 
 Contact: Tessa Masis (tmasis@cs.umass.edu), Brendan O'Connor (brenocon@cs.umass.edu)
 
+See also: https://github.com/slanglab/Tw4Yr-Filters
+
+## Contents
 
 - `data/`
   - `documentation.md`: dataset documentation
