@@ -1,6 +1,6 @@
 # aae-twitter/
 
-Code and data to accompany: Masis, Eggleston, Green, Jones, Armstrong, and O'Connor. "Variation across regions and demographics in African American Language morphosyntax: Evidence from large-scale Twitter data." Forthcoming at *American Speech*. 
+Code and data to accompany: Masis, Eggleston, Green, Jones, Armstrong, and O'Connor. "Variation across regions and demographics in African American Language morphosyntax: Evidence from large-scale Twitter data." *American Speech*, 2026. 
 
 This repository contains code for the analyses in the paper, as well as supplemental data with tract- and county-level linguistic feature relative incidences. If you would like access to the full Twitter4Years dataset for use in non-commercial research, please contact the authors at the below email addresses. For the filtering code used to create Twitter4Years, please see: https://github.com/slanglab/Tw4Yr-Filters
 
